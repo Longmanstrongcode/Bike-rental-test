@@ -1,0 +1,14 @@
+{
+  "name": "bike-rental-app",
+  "version": "1.0.0",
+  "description": "MERN,MongoDB,Express,React,Node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MERN"
+  ],
+  "author": "Kiyashchenko Valeriy <kiyashenko.front@gmail.com>",
+  "license": "ISC"
+}
